@@ -1,0 +1,8 @@
+# API keys and secrets
+.claude/
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
